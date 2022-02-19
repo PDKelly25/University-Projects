@@ -1,0 +1,16 @@
+C:\Users\pdkel\OneDrive\Documents\COMPSCI UNI\FINAL YEAR\CE303 - Advanced Programming\Assignment Resources (Week 4)\Assignment\MarketCS\MarketClientCS\obj\Debug\net5.0\MarketClientCS.csprojAssemblyReference.cache
+C:\Users\pdkel\OneDrive\Documents\COMPSCI UNI\FINAL YEAR\CE303 - Advanced Programming\Assignment Resources (Week 4)\Assignment\MarketCS\MarketClientCS\obj\Debug\net5.0\MarketClientCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pdkel\OneDrive\Documents\COMPSCI UNI\FINAL YEAR\CE303 - Advanced Programming\Assignment Resources (Week 4)\Assignment\MarketCS\MarketClientCS\obj\Debug\net5.0\MarketClientCS.AssemblyInfoInputs.cache
+C:\Users\pdkel\OneDrive\Documents\COMPSCI UNI\FINAL YEAR\CE303 - Advanced Programming\Assignment Resources (Week 4)\Assignment\MarketCS\MarketClientCS\obj\Debug\net5.0\MarketClientCS.AssemblyInfo.cs
+C:\Users\pdkel\OneDrive\Documents\COMPSCI UNI\FINAL YEAR\CE303 - Advanced Programming\Assignment Resources (Week 4)\Assignment\MarketCS\MarketClientCS\obj\Debug\net5.0\MarketClientCS.csproj.CoreCompileInputs.cache
+C:\Users\pdkel\OneDrive\Documents\COMPSCI UNI\FINAL YEAR\CE303 - Advanced Programming\Assignment Resources (Week 4)\Assignment\MarketCS\MarketClientCS\bin\Debug\net5.0\MarketClientCS.exe
+C:\Users\pdkel\OneDrive\Documents\COMPSCI UNI\FINAL YEAR\CE303 - Advanced Programming\Assignment Resources (Week 4)\Assignment\MarketCS\MarketClientCS\bin\Debug\net5.0\MarketClientCS.deps.json
+C:\Users\pdkel\OneDrive\Documents\COMPSCI UNI\FINAL YEAR\CE303 - Advanced Programming\Assignment Resources (Week 4)\Assignment\MarketCS\MarketClientCS\bin\Debug\net5.0\MarketClientCS.runtimeconfig.json
+C:\Users\pdkel\OneDrive\Documents\COMPSCI UNI\FINAL YEAR\CE303 - Advanced Programming\Assignment Resources (Week 4)\Assignment\MarketCS\MarketClientCS\bin\Debug\net5.0\MarketClientCS.runtimeconfig.dev.json
+C:\Users\pdkel\OneDrive\Documents\COMPSCI UNI\FINAL YEAR\CE303 - Advanced Programming\Assignment Resources (Week 4)\Assignment\MarketCS\MarketClientCS\bin\Debug\net5.0\MarketClientCS.dll
+C:\Users\pdkel\OneDrive\Documents\COMPSCI UNI\FINAL YEAR\CE303 - Advanced Programming\Assignment Resources (Week 4)\Assignment\MarketCS\MarketClientCS\bin\Debug\net5.0\ref\MarketClientCS.dll
+C:\Users\pdkel\OneDrive\Documents\COMPSCI UNI\FINAL YEAR\CE303 - Advanced Programming\Assignment Resources (Week 4)\Assignment\MarketCS\MarketClientCS\bin\Debug\net5.0\MarketClientCS.pdb
+C:\Users\pdkel\OneDrive\Documents\COMPSCI UNI\FINAL YEAR\CE303 - Advanced Programming\Assignment Resources (Week 4)\Assignment\MarketCS\MarketClientCS\obj\Debug\net5.0\MarketClientCS.dll
+C:\Users\pdkel\OneDrive\Documents\COMPSCI UNI\FINAL YEAR\CE303 - Advanced Programming\Assignment Resources (Week 4)\Assignment\MarketCS\MarketClientCS\obj\Debug\net5.0\ref\MarketClientCS.dll
+C:\Users\pdkel\OneDrive\Documents\COMPSCI UNI\FINAL YEAR\CE303 - Advanced Programming\Assignment Resources (Week 4)\Assignment\MarketCS\MarketClientCS\obj\Debug\net5.0\MarketClientCS.pdb
+C:\Users\pdkel\OneDrive\Documents\COMPSCI UNI\FINAL YEAR\CE303 - Advanced Programming\Assignment Resources (Week 4)\Assignment\MarketCS\MarketClientCS\obj\Debug\net5.0\MarketClientCS.genruntimeconfig.cache
