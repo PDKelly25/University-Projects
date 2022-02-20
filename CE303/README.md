@@ -1,5 +1,7 @@
-This project includes the assignment required for the coursework aspect of the module, which consists of two versions of a client-server system using sockets. 
-The requirements can be found within the assignment brief as well as the report produced.
+This project includes the assignment required for the coursework aspect of the module, which consists of two versions of a stock market client-server system using sockets.
+The requirements for this project are:
+
+![Requirements](requirements.png)
 
 The application follows the OOP Paradigm, thus each programming file only contains relevant objects to the class.
 
