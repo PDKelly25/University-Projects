@@ -26,9 +26,9 @@ The loop starts again, and the trader to which the stock owner transferred is no
 Within the client side, there are **no threads** created – a new instance of client is used when ClientProgram is run. 
   
 # Server Threads
-The **ServerProgram** (java) consists of a main method RunServer() which enables a connection via a specific port number using sockets. When a connection is made, a new Thread (ClientHandler) is created – each client will have a client handler, therefore the server is multi-threaded – number of threads active is equal to the number of clients connected.
+Within the Java implementation, ServerProgram consists of a main method RunServer() which enables a connection via a specific port number using sockets. When a connection is made, a new Thread (ClientHandler) is created – each client will have a client handler, therefore the server is **multi-threaded** – number of threads active is equal to the number of clients connected.
   
 Synchronised methods are used to prevent errors, specifically when accessing the Map data structure storing the client’s data. 
 Each thread (ClientHandler) is alive while there is a connection between that specific client and the server and is killed as soon as the connection is killed/closed (via thrown exceptions, or user closing ClientProgram in any way).
-  
+
 Within the c# implementation, the ClientHandler is a method within ServerProgram, which is called when a new client connects.
