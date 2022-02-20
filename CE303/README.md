@@ -1,7 +1,7 @@
 This project includes the assignment required for the coursework aspect of the module, which consists of two versions of a stock market client-server system using sockets.
 The requirements for this project are:
 
-![Requirements](requirements.png)
+![Requirements](screenshot.2431.png)
 
 The application follows the OOP Paradigm, thus each programming file only contains relevant objects to the class.
 
