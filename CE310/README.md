@@ -46,7 +46,7 @@ and implement crossover, mutation, and selection operators appropriate for the p
    optimisation problem) and implement them as your fitness functions. You find more details about the functions at 
    [https://en.wikipedia.org/wiki/Test_functions_for_optimization](https://en.wikipedia.org/wiki/Test_functions_for_optimization). 
    Run simulations to find the minimum of both functions. *Did the GA find the minimum? How precise is the solution? 
-   How can you improve the solution?
+   How can you improve the solution?*
    
 4. **Free choice (interesting task for you)**
    You can get even better acquainted with GA by solving additional problems, do more in dept-analysis. For example:
@@ -59,7 +59,7 @@ and implement crossover, mutation, and selection operators appropriate for the p
      - **Impress me with your creativity and exploratory skills.**
 
 # Part 2 - Mini project
-The objective of part 2 is to familiarize yourself with genetic programming (GP) by running several experiments (symbolic regression 
+The objective of part 2 is to familiarize yourself with **genetic programming** (GP) by running several experiments (symbolic regression 
 problems, see the teaching material on Moodle or [https://en.wikipedia.org/wiki/Symbolic_regression for more details](https://en.wikipedia.org/wiki/Symbolic_regression for more details). While part 1 
 focused on the implementation of the basic algorithms to gain insights in the underlying mechanisms of evolutionary computation, part
 2 focuses on enhancing your research and analysis skills. More precisely, like a scientist you will collect and analyse empirical data,
