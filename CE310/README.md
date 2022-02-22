@@ -30,10 +30,13 @@ and implement crossover, mutation, and selection operators appropriate for the p
    Weight and value of the i-th element are located at the i-th position in the respective array. The 
    maximum weight is 50. Run a few simulations. *Did the GA find the optimal solution? Did you have to 
    adjust the hyper-parameters?*
+   
    `
      weight = [10,4, 7, 4, 5, 5, 5,19,15,10,3,2,18,6,7,4,4,4,4,4,7, 6,7]
+     
      value = [10,2,30,14,15,16,15,15, 9,10,5,5, 5,5,5,3,3,3,3,3,7,12,5]
    `
+   
 3. **Function optimisation:** Explore the impact of different representations and fitness functions (see below) on the 
    performance of your GA. Remember that optimization involves finding the inputs x = (x1, … , xN) to an objective 
    function f(x) that result in the minimum or maximum output of f(x). So, to solve this task you need to define an 
