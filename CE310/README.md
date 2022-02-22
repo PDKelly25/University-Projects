@@ -91,3 +91,5 @@ Please select statistics you think are most appropriate to characterize the beha
 
 Identify the parameter configuration that worked best for each problem and then do a further set of 10 
 runs with each configuration chosen. 
+
+To complete this section of the assignment, I produced a [report](https://github.com/PDKelly25/University-Projects/blob/main/CE310/CE310_assignment_pt2.docx).
