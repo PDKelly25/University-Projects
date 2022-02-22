@@ -73,7 +73,8 @@ the experiments is to get an intuition on how the population and tournament size
 different symbolic regression problems, and on the computational complexity (based on how often the fitness function is being executed). 
 Use the following parameter configurations:
 
-- Problems: 
+- Problems:
+  
   ![](screenshot.2434.png)
 - Population size: 500 vs. 2000
 - Tournament size: 2 vs. 5
