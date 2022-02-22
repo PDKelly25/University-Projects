@@ -73,7 +73,8 @@ the experiments is to get an intuition on how the population and tournament size
 different symbolic regression problems, and on the computational complexity (based on how often the fitness function is being executed). 
 Use the following parameter configurations:
 
-- Problems: ![](screenshot.2434.png)
+- Problems: 
+  ![](screenshot.2434.png)
 - Population size: 500 vs. 2000
 - Tournament size: 2 vs. 5
 - Set the other parameters of the GP to the following values: generations = 30, crossover rate = 0.7, mutation rate = 0.3.
