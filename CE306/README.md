@@ -1,5 +1,5 @@
 This folder contains the assignment for CE306, which consists of creating a search engine / **information retrieval system**
-using *ElasticSearch* and *Python*.
+using *Kibana*, *ElasticSearch* and *Python*.
 
 The Assignment brief is below:
 
