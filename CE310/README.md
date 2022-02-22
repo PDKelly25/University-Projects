@@ -79,3 +79,15 @@ Use the following parameter configurations:
 - Population size: 500 vs. 2000
 - Tournament size: 2 vs. 5
 - Set the other parameters of the GP to the following values: generations = 30, crossover rate = 0.7, mutation rate = 0.3.
+
+Note that analysing two problems with two population sizes and two tournament sizes result in eight combinations and consequently you need
+to run eight different experiments.
+
+Once the runs are completed, analyse the data provided by the system and make sure you look carefully at the output produced in different 
+runs. *Is the GA maximising or minimising the fitness?*
+
+Then summarize the results in form of a table, reporting statistics obtained in different configurations when solving your chosen problem.
+Please select statistics you think are most appropriate to characterize the behaviour of the GP. 
+
+Identify the parameter configuration that worked best for each problem and then do a further set of 10 
+runs with each configuration chosen. 
