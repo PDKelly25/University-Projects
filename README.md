@@ -5,7 +5,7 @@ This Repository includes University coursework / projects relevant to a future e
 ## 3rd Year modules:
 - Final Year Project
 - [CE303](https://github.com/PDKelly25/University-Projects/tree/main/CE303) (Advanced Programming)
-- CE306 (Information Retrieval)
+- [CE306](https://github.com/PDKelly25/University-Projects/tree/main/CE306) (Information Retrieval)
 - CE310 (Evolutionary Computation and Genetic Programming)
 - CE324 (Network Security)
 
