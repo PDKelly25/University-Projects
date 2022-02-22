@@ -12,7 +12,7 @@ and implement crossover, mutation, and selection operators appropriate for the p
 
 ## Task 1.3 - Combinatorial Optimisation Problems
 *Solve the following problems:*
-1. Fifty-Fifty: Test your code by creating individuals that are represented as 120 bit long arrays or 
+1. **Fifty-Fifty:** Test your code by creating individuals that are represented as 120 bit long arrays or 
    bitstrings (chromosome) and evolve individuals using the following fitness function (**pseudocode**):
       
       `fitness(individual) = sum(individual[bit 1 to 60] == 0) + sum(individual[bits 61 to 120] == 1)`
@@ -64,3 +64,16 @@ problems, see the teaching material on Moodle or [https://en.wikipedia.org/wiki/
 focused on the implementation of the basic algorithms to gain insights in the underlying mechanisms of evolutionary computation, part
 2 focuses on enhancing your research and analysis skills. More precisely, like a scientist you will collect and analyse empirical data,
 summarise, and interpret your results, and based on the evidence gathered draw conclusions.
+
+## Task 2.2 - Task definition
+You are asked to perform a series of GP runs and describe the results of your runs in a report. In your experiments you will need to use 
+GP in different configurations (i.e., problems and parameters). Since GP is a stochastic searcher, you will see that performance varies
+from run to run. Therefore, to draw your conclusions, you should ensure you perform at least 10 runs in each configuration. The aim of 
+the experiments is to get an intuition on how the population and tournament size impacts on fitness and size of the evolved programs for
+different symbolic regression problems, and on the computational complexity (based on how often the fitness function is being executed). 
+Use the following parameter configurations:
+
+![Problems:](screenshot.2434.png)
+- Population size: 500 vs. 2000
+- Tournament size: 2 vs. 5
+- Set the other parameters of the GP to the following values: generations = 30, crossover rate = 0.7, mutation rate = 0.3.
